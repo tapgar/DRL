@@ -1,0 +1,28 @@
+Fri Dec 22 17:19:24 2017
+ERROR: Load model error: Error: inertia must satisfy A + B >= C; use 'balanceinertia' to fix
+Object name = left_toe, id = 5, line = 63, column = 11
+
+Fri Dec 22 17:19:38 2017
+ERROR: Load model error: Error: inertia must satisfy A + B >= C; use 'balanceinertia' to fix
+Object name = left_toe, id = 5, line = 63, column = 11
+
+Fri Dec 22 17:19:49 2017
+ERROR: Load model error: Error: inertia must satisfy A + B >= C; use 'balanceinertia' to fix
+Object name = left_toe, id = 5, line = 63, column = 11
+
+Fri Dec 22 17:41:40 2017
+ERROR: Load model error: Error: inertia must satisfy A + B >= C; use 'balanceinertia' to fix
+Object name = left_tarsus, id = 4, line = 58, column = 9
+
+Fri Dec 22 17:43:30 2017
+ERROR: Load model error: Error: inertia must satisfy A + B >= C; use 'balanceinertia' to fix
+Object name = left_toe, id = 5, line = 63, column = 11
+
+Fri Dec 22 20:23:38 2017
+ERROR: Load model error: Error: mass and inertia of moving bodies must be positive
+Object name = left_toe, id = 5, line = 63, column = 11
+
+Fri Dec 22 20:24:56 2017
+ERROR: Load model error: Error: mass and inertia of moving bodies must be positive
+Object name = left_tarsus, id = 4, line = 58, column = 9
+

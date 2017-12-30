@@ -1,0 +1,8 @@
+Thu Dec  7 19:59:55 2017
+ERROR: Load model error: XML parse error at line 0, column 0:
+Failed to open file
+
+
+Mon Dec 18 14:03:44 2017
+ERROR: Could not open rgbfile for writing
+

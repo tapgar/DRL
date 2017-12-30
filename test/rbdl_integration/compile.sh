@@ -1,0 +1,1 @@
+g++ -std=c++11 -I. -I/home/tapgar/cuda-workspace/DRL/src/UserInterface -I/home/tapgar/libcassie-master/mjpro150/include -I/home/tapgar/rbdl/src -I/home/tapgar/rbdl/include -I/home/tapgar/rbdl/build/include -I/home/tapgar/eigen -lrbdl -L/home/tapgar/rbdl/build -L/home/tapgar/libcassie-master/mjpro150/bin -lmujoco150 -lglew  -lGL  DynamicModel.cpp Visualizer.cpp main.cpp -o main
